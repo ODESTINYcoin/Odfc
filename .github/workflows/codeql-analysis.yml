@@ -9,7 +9,7 @@
 # the `language` matrix defined below to confirm you have the correct set of
 # supported CodeQL languages.
 #
-name: "CodeQL"
+name: "dfc coin 
 
 on:
   push:
@@ -20,7 +20,7 @@ on:
   schedule:
     - cron: '17 15 * * 6'
 
-jobs:
+jobs: finance 
   analyze:
     name: Analyze
     runs-on: ubuntu-latest
